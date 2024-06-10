@@ -18,4 +18,3 @@ The algorithm takes three inputs:
 
 The algorithm outputs:
 1. results.txt   | a txt file with chromosome ID, old SNP position, new SNP position
-"""
